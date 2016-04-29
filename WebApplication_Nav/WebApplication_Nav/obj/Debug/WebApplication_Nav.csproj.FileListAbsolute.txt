@@ -1,0 +1,6 @@
+c:\users\boeie\documents\visual studio 2015\Projects\WebApplication_Nav\WebApplication_Nav\bin\WebApplication_Nav.dll.config
+c:\users\boeie\documents\visual studio 2015\Projects\WebApplication_Nav\WebApplication_Nav\bin\WebApplication_Nav.dll
+c:\users\boeie\documents\visual studio 2015\Projects\WebApplication_Nav\WebApplication_Nav\bin\WebApplication_Nav.pdb
+c:\users\boeie\documents\visual studio 2015\Projects\WebApplication_Nav\WebApplication_Nav\obj\Debug\WebApplication_Nav.csprojResolveAssemblyReference.cache
+c:\users\boeie\documents\visual studio 2015\Projects\WebApplication_Nav\WebApplication_Nav\obj\Debug\WebApplication_Nav.dll
+c:\users\boeie\documents\visual studio 2015\Projects\WebApplication_Nav\WebApplication_Nav\obj\Debug\WebApplication_Nav.pdb
